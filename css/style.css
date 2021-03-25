@@ -1,0 +1,16 @@
+/* Resest CSS */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Body */
+body {
+    background-color:darkslategrey;
+}
+
+/* Canvas */
+#canvas {
+    display: block;
+    margin: 60px auto;
+}
